@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jetsonren (Jay)
--  const reactAndJS () => {return 'React & JS'}
+-  const reactAndJS = () => {return 'React & JS'}
 - 👀 I’m interested in reactAndJS ()
 - 🌱 I’m currently learning reactAndJS ()
 - 💞️ I’m looking to collaborate on reactAndJS ()
